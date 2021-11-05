@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliNajafii
 - 👀 I’m interested in AI,Machine Learning ,software engineering and love to code with python
 - 🌱 I’m currently learning Information Retreival systems and database design
-- 💞️ I’m looking to collaborate on every project wich help us to have a better future. 
+- 💞️ I’m looking to collaborate on every project wich helps us to have a better future. 
 - 📫 How to reach me : alinajafischolar@gmail.com or alinajafilerning@gmail.com
 
 <!---
